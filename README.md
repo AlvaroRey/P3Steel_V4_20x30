@@ -1,6 +1,6 @@
 # P3Steel_V4_20x30
  
-Version 4.0 (By Alvaro Rey and Daniel Torres) From Version 3.0 (By Ghosthawk) with the listed changes
+Version 4.0 (By Alvaro Rey and Daniel Torres) From P3steel by Iroby with the listed changes
 The extruder no longer hits the Z axis top bracket
 Y axis belt tensioner ( that may be placed printed or metallic )
 Weight reduction cutting as much material as possible
