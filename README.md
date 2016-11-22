@@ -5,8 +5,8 @@ Version 4.0 (By Alvaro Rey and Daniel Torres) From P3steel by [irobri](http://ww
 * The extruder no longer hits the Z axis top bracket
 * Y axis belt tensioner ( that may be placed printed or metallic )
 * Weight reduction cutting as much material as possible
-* Holes to bolt to the PSU
-* Electronics as high as possible so that the cables are well hidden LCD
+* Holes to bolt the PSU to the frame
+* Electronics as high as possible so that the LCD cables are well hidden
 * Holes in the top bracket of the Z axis to position bearing
 * Holes in the top bracket of the Z axis to place spool holder
 * Axis movable to lose the least footprint as posible
